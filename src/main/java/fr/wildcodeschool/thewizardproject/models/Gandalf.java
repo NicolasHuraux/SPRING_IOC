@@ -10,7 +10,7 @@ private Outfit myOutfit;
     }
     @Override
     public String giveAdvice() {
-        return "je retourne un string";
+        return "je retourne un nico";
     }
 
     @Override
